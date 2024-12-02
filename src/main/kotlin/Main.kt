@@ -1,4 +1,4 @@
-package github.io
+package tempor
 
 fun main() {
   println("Hello World!")
